@@ -1,1 +1,12 @@
 .qodo
+# Ignore all CSV and PKL files across the project
+*.csv
+*.pkl
+
+# Optional: Ignore Jupyter Notebook checkpoints and Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Optional: Ignore VS Code settings
+.vscode/

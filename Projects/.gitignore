@@ -1,5 +1,13 @@
-# Ignore specific files
-MoiveRecommenderSystem/similarity.pkl
-MoiveRecommenderSystem/movies_list.pkl
-MoiveRecommenderSystem/tmdb_5000_credits.csv
-MoiveRecommenderSystem/tmdb_5000_movies.csv
+# Ignore large model and dataset files
+Projects/MoiveRecommenderSystem/similarity.pkl
+Projects/MoiveRecommenderSystem/*.csv
+Projects/MoiveRecommenderSystem/*.pkl
+
+# Python & VSCode related
+__pycache__/
+*.pyc
+.vscode/
+
+*.csv
+*.pkl
+
