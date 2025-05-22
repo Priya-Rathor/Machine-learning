@@ -1,0 +1,5 @@
+# Ignore specific files
+MoiveRecommenderSystem/similarity.pkl
+MoiveRecommenderSystem/movies_list.pkl
+MoiveRecommenderSystem/tmdb_5000_credits.csv
+MoiveRecommenderSystem/tmdb_5000_movies.csv
